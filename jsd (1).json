@@ -1,62 +1,56 @@
 {
   "Developer Panel": {
-    "1380903301": true,
-    "698572088": true
+    -- OWNER
+    "3416515809": true,
+    -- DEVELOPER
+    "1380903301": true
   },
   "Staff Panel": {
-    "1380903301": true,
-    "698572088": true
+    -- OWNER
+    "3416515809": true,
+    -- DEVELOPER
+    "1380903301": true
   },
   "Owner Panel": {
+    "3416515809": true,
     "1380903301": true
-  },
-  "GroupRanks": {
-    "1380903301": 255,
-    "698572088": 201
   },
   "Edgerunner": {
-    "1380903301": true,
-    "698572088": true
-  },
-  "Gebura": {
-    "1380903301": true,
-    "698572088": true,
-    "1128003758": true,
-    "962696666": true,
-    "1142834216": true,
-    "2003552105": true,
-    "8495983360": true,
-    "5511542729": true
-  },
-  "Hornet": {
-    "1380903301": true,
-    "698572088": true
-  },
-  "Invisible": {
-    "1380903301": true,
-    "698572088": true,
-    "962696666": true
-  },
-  "Jimpee": {
-    "1380903301": true,
-    "698572088": true
-  },
-  "Meaty": {
-    "1380903301": true,
-    "698572088": true
-  },
-  "Crusader": {
-    "1380903301": true,
-    "698572088": true,
-    "103333938": true
-  },
-  "Garou": {
+    -- OWNER
+    "3416515809": true,
+    -- DEVELOPER
     "1380903301": true
   },
-  "KJ": {
+  "Gebura": {
+    -- OWNER
+    "3416515809": true,
+    -- DEVELOPER
+    "1380903301": true
+  },
+  "Invisible": {
+    -- OWNER
+    "3416515809": true,
+    -- DEVELOPER
+    "1380903301": true
+  },
+  "Jimpee": {
+    "3416515809": true,
+    "1380903301": true
+  },
+  "Meaty": {
+    -- OWNER
+    "3416515809": true,
+    -- DEVELOPER
+    "1380903301": true
+  },
+  "Crusader": {
+    -- OWNER
+    "3416515809": true,
+    -- DEVELOPER
     "1380903301": true
   },
   "OwnerOnly": {
+    "3416515809": true,
     "1380903301": true
   }
 }
