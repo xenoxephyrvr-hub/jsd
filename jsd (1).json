@@ -1,14 +1,10 @@
 {
   "Developer Panel": {
-    // OWNER
     "3416515809": true,
-    // DEVELOPER
     "1380903301": true
   },
   "Staff Panel": {
-    -- OWNER
     "3416515809": true,
-    -- DEVELOPER
     "1380903301": true
   },
   "Owner Panel": {
@@ -16,21 +12,15 @@
     "1380903301": true
   },
   "Edgerunner": {
-    -- OWNER
     "3416515809": true,
-    -- DEVELOPER
     "1380903301": true
   },
   "Gebura": {
-    -- OWNER
     "3416515809": true,
-    -- DEVELOPER
     "1380903301": true
   },
   "Invisible": {
-    -- OWNER
     "3416515809": true,
-    -- DEVELOPER
     "1380903301": true
   },
   "Jimpee": {
@@ -38,15 +28,11 @@
     "1380903301": true
   },
   "Meaty": {
-    -- OWNER
     "3416515809": true,
-    -- DEVELOPER
     "1380903301": true
   },
   "Crusader": {
-    -- OWNER
     "3416515809": true,
-    -- DEVELOPER
     "1380903301": true
   },
   "OwnerOnly": {
